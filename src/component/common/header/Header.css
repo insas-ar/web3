@@ -1,0 +1,37 @@
+div{
+    color:#7aff58;
+	background-color:#464646;
+	height: 100px;   
+}
+#nav{
+    font-size: 20px;
+
+}
+#logo{
+    font-size:30px;
+    position:absolute;
+    top:25px;
+    
+}
+#prof{
+    position:absolute;
+    right:150px;
+    top:35px;
+}
+#in{
+    position:absolute;
+    right:300px;
+    top:35px;
+}
+#st{
+    position:absolute;
+    right:450px;
+    top:35px;
+}
+#home{
+    position:absolute;
+    right:600px;
+    top:35px;
+}
+
+
